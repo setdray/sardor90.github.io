@@ -1,2 +1,2 @@
-# sardor90.github.io
+# sdrreg.github.io
  my first network
